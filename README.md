@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Lutfullo Urunov</h1>
+<h1 align="center">👋 Hi, I'm Lutfullo</h1>
 
 <h3 align="center">⚙️ Aspiring Backend Developer from Tajikistan 🇹🇯</h3>
 
@@ -10,21 +10,19 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/mario-game/">
-    <img src="https://img.shields.io/badge/🍄_PLAY_MY_MARIO_GAME-Click_Here-E52521?style=for-the-badge" alt="Play Mario game" />
-  </a>
+  <i>Turning ideas into code, one project at a time.</i>
+</p>
+
+---
+
+## 🐍 Pixel Snake Zone
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
 </p>
 
 <p align="center">
-  <b>🍄 SUPER MARIO — MY PIXEL WORLD 🍄</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LutfulloUrunov/LutfulloUrunov/main/assets/mario.gif" width="200" alt="Pixel Mario animation" />
-</p>
-
-<p align="center">
-  <i>Collect knowledge. Defeat bugs. Level up your skills.</i>
+  <i>Collect contributions. Keep moving. Never stop coding.</i>
 </p>
 
 ---
@@ -36,7 +34,7 @@ Hey! I'm **Lutfullo**, a student and aspiring Backend Developer from Tajikistan 
 I started my programming journey with HTML, CSS, and JavaScript. Now I'm focusing on the technologies that power websites behind the scenes.
 
 - ⚙️ Exploring backend development
-- 💻 Building projects and improving my coding skills
+- 💻 Building my programming skills
 - 🗄️ Interested in databases, APIs, and server architecture
 - 🌍 Improving my English
 - 🚀 Working toward becoming a Junior Backend Developer
@@ -45,80 +43,27 @@ I started my programming journey with HTML, CSS, and JavaScript. Now I'm focusin
 
 ---
 
-## 📂 My Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Café Shahdi
-
-A modern website for a local café.
-
-**Stack**
-
-- HTML
-- CSS
-- JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Electronic Journal
-
-A desktop app for managing students, subjects, and grades.
-
-**Stack**
-
-- Python
-- Tkinter
-- JSON
-- SQLite
-
-</td>
-</tr>
-</table>
-
-### ⚙️ Backend Lab
-
-My next step is to build applications that connect frontend interfaces with servers and databases.
-
-```text
-Client
-  |
-  v
-REST API
-  |
-  v
-Backend Server
-  |
-  v
-Database
-```
-
----
-
 ## 🛠️ My Tech Arsenal
 
-**🌐 Frontend**
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**⚙️ Backend & Programming**
+### ⚙️ Backend & Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,cs" />
 </p>
 
-**🗄️ Databases & Tools**
+### 🗄️ Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio" />
 </p>
 
-*Some of these are technologies I'm planning to learn, not skills I've already mastered.*
+*Some of these technologies are part of my learning roadmap, not skills I've already mastered.*
 
 ---
 
@@ -129,13 +74,17 @@ Database
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 My Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
@@ -161,13 +110,13 @@ Database
 🗄️ SQL & Databases
        |
        v
-🔐 Authentication
+🔐 Authentication & Security
        |
        v
 🌐 REST APIs
        |
        v
-💻 Real-world Projects
+💻 Backend Projects
        |
        v
 🎯 Junior Backend Developer
@@ -179,7 +128,7 @@ Database
 
 - [x] Learn HTML
 - [x] Learn CSS
-- [x] Learn JavaScript fundamentals
+- [x] Build a foundation in JavaScript
 - [ ] Improve JavaScript
 - [ ] Learn Node.js
 - [ ] Learn Express.js
@@ -221,6 +170,8 @@ const lutfullo = {
 
     goal: "Become a professional developer 🚀"
 };
+
+console.log("Building my future...");
 ```
 
 ---
@@ -230,9 +181,9 @@ const lutfullo = {
 | Interest | What I'm doing |
 |---|---|
 | 🇺🇸 English | Practicing English and American pronunciation |
-| 🎮 Gaming | Playing games and enjoying pixel art |
+| 🎮 Gaming | Enjoying video games and pixel art |
 | 💡 Creativity | Exploring new ideas |
-| 💻 Programming | Building projects and learning technologies |
+| 💻 Programming | Learning and building |
 
 ---
 
